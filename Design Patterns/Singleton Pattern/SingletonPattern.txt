@@ -1,0 +1,7 @@
+A Singleton class ensures that only one instance of the class is created and provides a global access point to that instance.
+
+# Steps to Create a Singleton Class
+
+1.Make the constructor private → Prevents direct instantiation.
+2.Create a private static instance of the class.
+3.Provide a public static method to return the instance.
